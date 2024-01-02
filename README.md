@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The product](#the-product)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
@@ -20,10 +19,6 @@ Users should be able to:
 - Click on the QR code button to generate a new code based on the validity of the URL provided
 - See social media pop-ups when they try to share their code
 - See a QR code page when clicking on the download button where they can download from the browser
-
-### Screenshot
-
-![App Screenshot]("./assets/2024-01-02 21_02_37-Testmonials Component.png")
 
 ### Links
 
