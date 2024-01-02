@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![App Screenshot]("https://github.com/Motlakz/testimonials-carousel-component/blob/main/assets/2024-01-02%2021_02_37-Testmonials%20Component.png")
+![App Screenshot]("./assets/2024-01-02 21_02_37-Testmonials Component.png")
 
 ### Links
 
