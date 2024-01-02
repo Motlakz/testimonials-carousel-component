@@ -94,7 +94,7 @@ button[aria-current="true"] {
     background-color: #d7d7d7 !important;
 }
 
-.light {
+.light body {
     background-color: lightgray;
 }
 
